@@ -6,8 +6,8 @@ Trebat će vam Windows Loader by Daz, skinite ga ovdje https://drive.google.com/
 Spržite W7 ISO na stick sa Rufusom i svakako izaberite "MBR partition scheme for BIOS/UEFI" pod "Partition scheme" izbornikom.
 Iskopčajte LAN kabel na računalu.
 Isključite "UEFI boot opciju" u BIOS-u jerbo Windows Loader šljaka samo u "legacy" boot modu. Također uključite "AHCI" SATA mode.
-Ako imate računalo novije generacije moguće je da će vam instalacija zapeti jer W7 ISO nema integrirane USB3 drivere. U tom slučaju skinite ovaj programćić i slijedite upute.
-http://gigabytedaily.blogspot.com/2015/09/having-trouble-installing-windows-7-by.html
+Ako imate računalo novije generacije moguće je da će vam instalacija zapeti jer W7 ISO nema integrirane USB3 drivere. U tom slučaju skinite ovaj programćić:
+http://gigabytedaily.blogspot.com/2015/09/having-trouble-installing-windows-7-by.html Alternativno MSI alatka služi istoj svrsi: https://forum-en.msi.com/index.php?topic=261560.0
 Napravite clean install W7, aktivirajte ga sa Windows Loaderom, restartajte, provjerite da li je aktiviran uz pomoć Windows Loadera.
 (Ukoliko imate problema s aktivacijom uz pomoć Loadera, pročitajte dokumentaciju koja dolazi s njime)
 Skinite Microsoftov W10  Media Creation Tool, spržite ga na stick, startajte "setup.exe" i izaberite "upgrade" opciju.
