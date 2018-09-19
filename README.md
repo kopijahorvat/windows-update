@@ -5,9 +5,14 @@ Također možete skinuti .torrent file i provjeriti hash kako je objašnjeno ovd
 Trebat će vam Windows Loader by Daz, skinite ga ovdje https://drive.google.com/file/d/1OigAwy3b9Zig1LgQ2zrBimr3J_xXLQjl/view?usp=sharing password je "kopijahorvat". Neki antivirus programi će se požaliti da su pronašli nešto zločesto. Preostaje vam vjera, ufanje, ljubav u mene koji vam garantira da je to false positive. Ako nemate vjere provjerite sa VirusTotalom i sve će vam biti jasno.
 Spržite W7 ISO na stick sa Rufusom i svakako izaberite "MBR partition scheme for BIOS/UEFI" pod "Partition scheme" izbornikom.
 Iskopčajte LAN kabel na računalu.
-Isključite "UEFI boot opciju" u BIOS-u jerbo Windows Loader šljaka samo u "legacy" boot modu. Također uključite "AHCI" SATA mode.
-Ako imate računalo novije generacije moguće je da će vam instalacija zapeti jer W7 ISO nema integrirane USB3 drivere. U tom slučaju skinite ovaj programćić:
-http://gigabytedaily.blogspot.com/2015/09/having-trouble-installing-windows-7-by.html Alternativno MSI alatka služi istoj svrsi: https://forum-en.msi.com/index.php?topic=261560.0
+Isključite "UEFI boot" i "Secure boot" opcije u BIOS-u jerbo Windows Loader šljaka samo u "legacy" boot modu. Također uključite "AHCI" SATA mode.
+
+*Ako imate računalo novije generacije moguće je da će vam instalacija zapeti jer W7 ISO nema integrirane USB3 drivere. U tom slučaju 
+ skinite ovaj programćić:
+ http://gigabytedaily.blogspot.com/2015/09/having-trouble-installing-windows-7-by.html 
+ Alternativno MSI alatka služi istoj svrsi: https://forum-en.msi.com/index.php?topic=261560.0
+ Oba programa NE RADE s verzijama koje prilikom instalacije nude izbor Home/Pro, 64/32-bit ili slično. ISO mora biti "single edition" verzija.
+
 Napravite clean install W7, aktivirajte ga sa Windows Loaderom, restartajte, provjerite da li je aktiviran uz pomoć Windows Loadera.
 (Ukoliko imate problema s aktivacijom uz pomoć Loadera, pročitajte dokumentaciju koja dolazi s njime)
 Skinite Microsoftov W10  Media Creation Tool, spržite ga na stick, startajte "setup.exe" i izaberite "upgrade" opciju.
