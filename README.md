@@ -4,11 +4,8 @@ Trebat će vam Windows Loader by Daz, skinite ga ovdje https://drive.google.com/
 Spržite ISO na stick sa Rufus-om https://rufus.akeo.ie (svakako izaberite "MBR" pod "Partition scheme" izbornikom).
 Ako imate noviju matičnu sa UEFI BIOS-om, u boot izborniku izaberite bootanje sa sticka koji je izlistan bez "UEFI" opcije ili jednostavno  isključite "UEFI" i uključite "Legacy/CMS" boot opciju u BIOS-u (jerbo UEFI boot ne podržava "legacy" MBR particije). Također uključite "AHCI" SATA mode.
 
-*Ako imate računalo novije generacije (bez USB2 portova) moguće je da će vam instalacija zapeti jer W7 ISO nema integrirane USB3 drivere. U tom slučaju 
- skinite ovaj programćić:
- http://gigabytedaily.blogspot.com/2015/09/having-trouble-installing-windows-7-by.html 
- Alternativno MSI alatka služi istoj svrsi: https://forum-en.msi.com/index.php?topic=261560.0
- Oba programa NE RADE s verzijama koje prilikom instalacije nude izbor Home/Pro, 64/32-bit ili slično. ISO mora biti "single edition" verzija.
+*Ako imate računalo novije generacije (bez USB2 portova i/ili sa m.2 NVME SSD-om) moguće je da će vam instalacija zapeti jer W7 ISO nema integrirane USB3/NVME drivere. U tom slučaju skinite ovaj programćić: https://forum-en.msi.com/index.php?topic=261560.0
+ Pažnja: navedeni program NE RADI s verzijama koje prilikom instalacije nude izbor Home/Pro, 64/32-bit ili slično. ISO mora biti "single edition" verzija.
 
 Napravite clean install W7, aktivirajte ga sa Windows Loaderom, restartajte i provjerite uz pomoć Loadera da li je aktiviran.
 (Ukoliko imate problema s aktivacijom uz pomoć Loadera, pročitajte dokumentaciju koja dolazi s njime)
