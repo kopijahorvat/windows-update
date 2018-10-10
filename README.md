@@ -1,4 +1,4 @@
-Trebat će vam W7 SP1 RTM ISO (Home/Pro), kojeg  nije moguće skinuti direktno od Microsofta bez aktivacijskog key-a. 
+Trebat će vam Windows Professional ISO, kojeg  nije moguće skinuti direktno od Microsofta bez aktivacijskog key-a. 
 Srećom možete ga skinuti uz pomoć ovog programćića koji skida direktno s MS servera i ne zahtijeva admin privilegije https://www.heidoc.net/joomla/technology-science/microsoft/67-microsoft-windows-iso-download-tool 
 Alternativni link: https://drive.google.com/file/d/1fkCm3MW4FJ9G1e6RPctJ0xbWS_kBilIa/view?usp=sharing (provjeren VirusTotal-om)
 Također možete skinuti .torrent file i provjeriti hash kako je objašnjeno ovdje https://www.pcsteps.com/45-download-windows-7-iso-legally-free-digital-river/
