@@ -1,4 +1,4 @@
-Trebat će vam Windows 7 Professional SP1 ISO (Home,Professional ili Ultimate), kojeg  nije moguće skinuti direktno od Microsofta bez aktivacijskog key-a. 
+Trebat će vam Windows 7 SP1 ISO (Home,Professional ili Ultimate), kojeg  nije moguće skinuti direktno od Microsofta bez aktivacijskog key-a. 
 Srećom možete ga skinuti uz pomoć ovog programćića koji skida direktno s MS servera i ne zahtijeva admin privilegije https://www.heidoc.net/joomla/technology-science/microsoft/67-microsoft-windows-iso-download-tool 
 Alternativno, možete skinuti torrent korisnika "murphy78" sa TPB-a, to je jedini uploader kojem se može vjerovati. 
 Trebat će vam Windows Loader by Daz, skinite ga ovdje https://drive.google.com/file/d/1OigAwy3b9Zig1LgQ2zrBimr3J_xXLQjl/view?usp=sharing password je "kopijahorvat". Neki antivirus programi će se požaliti da su pronašli nešto zločesto. Preostaje vam vjera, ufanje, ljubav u mene koji vam garantira da je to false positive. Ako nemate vjere provjerite sa VirusTotalom i sve će vam biti jasno.
