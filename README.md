@@ -1,5 +1,5 @@
 
-+++++++++++++Doljenavedena procedura omogućit će vam da besplatno aktivirate Windows 10 putem digitalne licence+++++++++++++++++
+           Doljenavedena procedura omogućit će vam da besplatno aktivirate Windows 10 putem digitalne licence
 
 Trebat će vam Windows 7 SP1 ISO (Home,Professional ili Ultimate), kojeg  nije moguće skinuti direktno od Microsofta bez aktivacijskog key-a. 
 Srećom možete ga skinuti uz pomoć ovog programćića koji skida direktno s MS servera (https://software-download.microsoft.com) i ne zahtijeva admin privilegije https://www.heidoc.net/joomla/technology-science/microsoft/67-microsoft-windows-iso-download-tool 
