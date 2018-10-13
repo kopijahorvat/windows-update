@@ -1,6 +1,7 @@
 Trebat će vam Windows 7 SP1 ISO (Home,Professional ili Ultimate), kojeg  nije moguće skinuti direktno od Microsofta bez aktivacijskog key-a. 
 Srećom možete ga skinuti uz pomoć ovog programćića koji skida direktno s MS servera i ne zahtijeva admin privilegije https://www.heidoc.net/joomla/technology-science/microsoft/67-microsoft-windows-iso-download-tool 
-Alternativno, možete skinuti torrent korisnika "murphy78" sa TPB-a, to je jedini uploader kojem se može vjerovati. 
+https://tb.rg-adguard.net/public.php nudi samo Ultimate verziju preko web sučelja.
+Ako ste paranoidni usporedite SHA1 uz pomoć ove liste: http://naterice.com/windows-7-and-7-1-iso-names-and-sha1-hashes  s ovim programčićem : http://www.nirsoft.net/utils/hash_my_files.html
 Trebat će vam Windows Loader by Daz, skinite ga ovdje https://drive.google.com/file/d/1OigAwy3b9Zig1LgQ2zrBimr3J_xXLQjl/view?usp=sharing password je "kopijahorvat". Neki antivirus programi će se požaliti da su pronašli nešto zločesto. Preostaje vam vjera, ufanje, ljubav u mene koji vam garantira da je to false positive. Ako nemate vjere provjerite sa VirusTotalom i sve će vam biti jasno.
 Spržite ISO na stick sa Rufus-om https://rufus.akeo.ie (svakako izaberite "MBR" pod "Partition scheme" izbornikom).
 Ako imate noviju matičnu sa UEFI BIOS-om, u boot izborniku izaberite bootanje sa sticka koji je izlistan bez "UEFI" opcije ili jednostavno  isključite "UEFI" i uključite "Legacy/CMS" boot opciju u BIOS-u (jerbo UEFI boot ne podržava "legacy" MBR particije). Također uključite "AHCI" SATA mode. Secure Boot bi također trebao biti isključen.
