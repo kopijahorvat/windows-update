@@ -1,6 +1,10 @@
 
            Doljenavedena procedura omogućit će vam da besplatno aktivirate Windows 10 putem digitalne licence
 
+Najjednostavnije je da W10 aktivirate uz pomoć HWIDGEN aktivatora kojeg skinete ovdje: https://www.reddit.com/r/piracy/wiki/tools
+HWIDGEN većina antivirusa prepoznaje kao virus/trojan jer modificira registry, no ako ga skinete sa "službenih" stranica https://www.nsaneforums.com/topic/312871-windows-10-digital-license-hwid-kms38%E2%84%A2-generation/ nema razloga za brigu. 
+
+Malo kompliciranija metoda je slijedeća:
 Trebat će vam Windows 7 SP1 ISO (Home,Professional ili Ultimate), kojeg  nije moguće skinuti direktno od Microsofta bez aktivacijskog key-a. 
 Srećom možete ga skinuti uz pomoć ovog programćića koji skida direktno s MS servera (https://software-download.microsoft.com) i ne zahtijeva admin privilegije https://www.heidoc.net/joomla/technology-science/microsoft/67-microsoft-windows-iso-download-tool 
 https://tb.rg-adguard.net/public.php nudi samo Ultimate verziju i također skida s https://software-download.microsoft.com domene.
