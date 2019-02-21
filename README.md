@@ -5,11 +5,10 @@ Najjednostavnije je da W10 aktivirate uz pomoć HWIDGEN aktivatora kojeg skinete
 HWIDGEN većina antivirusa prepoznaje kao virus/trojan jer modificira registry, no ako ga skinete sa "službenih" stranica https://www.nsaneforums.com/topic/312871-windows-10-digital-license-hwid-kms38%E2%84%A2-generation/ nema razloga za brigu. 
 
 Malo kompliciranija metoda je slijedeća:
-Trebat će vam Windows 7 SP1 ISO (Home,Professional ili Ultimate), kojeg  nije moguće skinuti direktno od Microsofta bez aktivacijskog key-a. 
-Srećom možete ga skinuti uz pomoć ovog programćića koji skida direktno s MS servera (https://software-download.microsoft.com) i ne zahtijeva admin privilegije https://www.heidoc.net/joomla/technology-science/microsoft/67-microsoft-windows-iso-download-tool 
-https://tb.rg-adguard.net/public.php nudi samo Ultimate verziju i također skida s https://software-download.microsoft.com domene.
+Trebat će vam Windows 7 SP1 ISO, kojeg  nije moguće skinuti direktno od Microsofta bez aktivacijskog key-a. 
+Skinite ga sa mojeg Google Drive-a https://drive.google.com/open?id=1mo6xmhgYoZKU5K6o1zHG4TJo6MJwcshQ
 Ako ste paranoidni usporedite SHA1 vrijednosti uz pomoć ove liste: http://naterice.com/windows-7-and-7-1-iso-names-and-sha1-hashes  s ovim programčićem : http://www.nirsoft.net/utils/hash_my_files.html 
-Trebat će vam Windows Loader by Daz, skinite ga ovdje https://drive.google.com/file/d/1OigAwy3b9Zig1LgQ2zrBimr3J_xXLQjl/view?usp=sharing password je "kopijahorvat". Neki antivirus programi će se požaliti da su pronašli nešto zločesto. Preostaje vam vjera, ufanje, ljubav u mene koji vam garantira da je to false positive. Ako nemate vjere provjerite sa VirusTotalom i sve će vam biti jasno.
+Trebat će vam Windows Loader by Daz, skinite ga ovdje https://drive.google.com/file/d/1OigAwy3b9Zig1LgQ2zrBimr3J_xXLQjl/view?usp=sharing password za Windows 7-zip datoteku i za Windows Loader je "kopijahorvat". Neki antivirus programi će se požaliti da su pronašli nešto zločesto. Preostaje vam vjera, ufanje, ljubav u mene koji vam garantira da je to false positive. Ako nemate vjere provjerite sa VirusTotalom i sve će vam biti jasno.
 Spržite ISO na stick sa Rufus-om https://rufus.akeo.ie (svakako izaberite "MBR" pod "Partition scheme" izbornikom).
 Ako imate noviju matičnu sa UEFI BIOS-om, u boot izborniku izaberite bootanje sa sticka koji je izlistan bez "UEFI" opcije ili jednostavno  isključite "UEFI" i uključite "Legacy/CMS" boot opciju u BIOS-u (jerbo UEFI boot ne podržava "legacy" MBR particije). Također uključite "AHCI" SATA mode. Secure Boot bi također trebao biti isključen.
 
