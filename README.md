@@ -17,7 +17,7 @@ Svakako izaberite "MBR" pod "Partition scheme" izbornikom te ako imate noviju ma
 
 Napravite clean install W7, aktivirajte ga sa Windows Loaderom, restartajte i provjerite uz pomoć Loadera da li je aktiviran.
 (Ukoliko imate problema s aktivacijom uz pomoć Loadera, pročitajte dokumentaciju koja dolazi s njime)
-Skinite Microsoftov W10  Media Creation Tool ili uz pomoć Rufusa skinite W10 Pro 64-bitni ISO, spržite ga na stick, startajte "setup.exe" i izaberite "upgrade" opciju.
+Skinite Microsoftov W10  Media Creation Tool ili uz pomoć Rufusa skinite W10 Pro 64-bitni ISO, spržite ga na stick, startajte "setup.exe" i izaberite "upgrade" opciju. Alternativno možete uz pomoć 7-zip-a napraviti ekstrakciju W10 ISO-a direktno na HDD/SSD i odonuda startat setup.exe.
 Nakon što se W10 instalira,  stisnite Win tipku na tipkovnici, utipkajte "activation" i uz pomoć "Activation" aplikacije provjerite da li ste dobili digitalnu licencu.
 Ukoliko želite koristiti UEFI/Secure boot, uključite ga u BIOSU.
 
