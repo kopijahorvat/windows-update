@@ -12,12 +12,12 @@ Također vam je potreban i Windows Loader programćić, skinite ga ovdje https:/
 Spržite W7 ISO na stick uz pomoć Rufus-a https://rufus.akeo.ie 
 Svakako izaberite "MBR" pod "Partition scheme" izbornikom te ako imate noviju matičnu sa UEFI BIOS-om, u boot izborniku izaberite bootanje sa sticka koji je izlistan bez "UEFI" opcije ili jednostavno  isključite "UEFI" i uključite "Legacy/CMS" boot opciju u BIOS-u (jerbo UEFI boot ne podržava "legacy" MBR particije). Također uključite "AHCI" SATA mode. Secure Boot bi također trebao biti isključen.
 
-*Ako imate računalo novije generacije (bez USB2 portova i/ili sa m.2 NVME SSD-om) moguće je da će vam instalacija zapeti jer W7 ISO nema integrirane USB3/NVME drivere. U tom slučaju upotrebite ovaj programćić: https://forum-en.msi.com/index.php?topic=261560.0
+Ako imate računalo novije generacije (bez USB2 portova i/ili sa m.2 NVME SSD-om) moguće je da će vam instalacija zapeti jer W7 ISO nema integrirane USB3/NVME drivere. U tom slučaju upotrebite ovaj programćić koji će integrirati drivere: http://www.biostar.com.tw/utility/WindowsTool.zip umjesto Rufusa.
  
 
 Napravite clean install W7, aktivirajte ga sa Windows Loaderom, restartajte i provjerite uz pomoć Loadera da li je aktiviran.
 (Ukoliko imate problema s aktivacijom uz pomoć Loadera, pročitajte dokumentaciju koja dolazi s njime)
-Skinite Microsoftov W10  Media Creation Tool ili uz pomoć Rufusa skinite W10 Pro 64-bitni ISO, spržite ga na stick, startajte "setup.exe" i izaberite "upgrade" opciju. Alternativno možete uz pomoć 7-zip-a napraviti ekstrakciju W10 ISO-a direktno na HDD/SSD i odonuda startat setup.exe.
+Skinite Microsoftov W10  Media Creation Tool i odaberite opciju skidanja .ISO fajla, spržite ga na stick uz pomoć Rufusa, startajte "setup.exe" i izaberite "upgrade" opciju. Alternativno možete uz pomoć 7-zip-a napraviti ekstrakciju W10 ISO-a direktno na HDD/SSD i odonuda startat setup.exe.
 Nakon što se W10 instalira,  stisnite Win tipku na tipkovnici, utipkajte "activation" i uz pomoć "Activation" aplikacije provjerite da li ste dobili digitalnu licencu.
 Ukoliko želite koristiti UEFI/Secure boot, uključite ga u BIOSU.
 
